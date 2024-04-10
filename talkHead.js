@@ -10,7 +10,7 @@ import { TalkingHead } from "talkinghead";
       const nodeAvatar = document.getElementById('avatar');
       nameHead = new TalkingHead( nodeAvatar, {
         ttsEndpoint: "https://texttospeech.googleapis.com/v1beta1/text:synthesize",
-        ttsApikey: "AIzaSyCSdN9AeZo9qRJsKl5X5flEGjDgPHN1-pg", // <- Change this
+        ttsApikey: "_placeholder_", // <- Change this
         cameraView: "upper"
       });
 
