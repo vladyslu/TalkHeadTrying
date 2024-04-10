@@ -30,7 +30,7 @@ const generateResponse = (chatElement) => {
    
 	
 	
-	 const apiKey = 'AIzaSyCSdN9AeZo9qRJsKl5X5flEGjDgPHN1-pg';
+	 const apiKey = '_Placeholder_';
             const url = `http://52.86.222.221:3000/message`;
             
             const data = {
